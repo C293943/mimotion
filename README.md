@@ -56,7 +56,7 @@
 
   ```json
   {
-    "USER": "abcxxx@xx.com",
+    "USER": "5zscru31@nqmo.com",
     "PWD": "password",
     "MIN_STEP": "18000",
     "MAX_STEP": "25000",
